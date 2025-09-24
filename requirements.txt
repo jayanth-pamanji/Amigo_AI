@@ -1,0 +1,8 @@
+torch
+transformers
+sentencepiece
+sentence-transformers
+scikit-learn
+pandas
+numpy
+faiss-cpu

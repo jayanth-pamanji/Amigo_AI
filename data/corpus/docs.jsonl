@@ -1,0 +1,23 @@
+{"id": "d0", "title": "OrionSearch", "text": "It supports field-level boosting and phrase queries. The query language supports proximity operators using `~k` syntax. OrionSearch serves as a full-text search engine with BM25 ranking."}
+{"id": "d1", "title": "OrionSearch", "text": "Synonym expansion is configured in `orion.yml`. The indexer uses incremental segment merges."}
+{"id": "d2", "title": "OrionSearch", "text": "OrionSearch community survey results will be published next quarter."}
+{"id": "d3", "title": "OrionSearch", "text": "Users on forums discussed OrionSearch tutorials and workshop schedules."}
+{"id": "d4", "title": "OrionSearch", "text": "OrionSearch release notes mention minor UI tweaks and logging improvements."}
+{"id": "d5", "title": "ANLP", "text": "It provides sentence splitting, NER, and lemmatization for 50+ languages. Dictionaries are configured in `atlas.yml`. AtlasNLP has a rule-based fallback for rare tokens."}
+{"id": "d6", "title": "ANLP", "text": "AtlasNLP is a multilingual text processing suite. Models are packaged in ONNX format for portability."}
+{"id": "d7", "title": "Atlas NLP", "text": "Atlas NLP community survey results will be published next quarter."}
+{"id": "d8", "title": "Nebula DB", "text": "It supports JSON documents with automatic schema inference."}
+{"id": "d9", "title": "NebulaDB", "text": "NebulaDB uses a CRDT-based replication protocol for offline-first apps. The default port for NebulaDB is 7342. NebulaDB provides role-based access control with three roles: reader, writer, admin. Defaults are sensible for most users."}
+{"id": "d10", "title": "NebulaDB", "text": "NebulaDB is a lightweight document store built for edge devices."}
+{"id": "d11", "title": "NDB", "text": "NDB release notes mention minor UI tweaks and logging improvements."}
+{"id": "d12", "title": "Nebula DB", "text": "Users on forums discussed Nebula DB tutorials and workshop schedules."}
+{"id": "d13", "title": "Mercury RL", "text": "Trajectories can be exported to NumPy NPZ files. MercuryRL is a reinforcement learning toolkit for robotics."}
+{"id": "d14", "title": "MRL", "text": "It includes PPO and SAC reference implementations. Sim2real transfer is assisted by domain randomization utilities. MercuryRL uses YAML experiment manifests."}
+{"id": "d15", "title": "MRL", "text": "MRL release notes mention minor UI tweaks and logging improvements."}
+{"id": "d16", "title": "Mercury RL", "text": "Mercury RL release notes mention minor UI tweaks and logging improvements."}
+{"id": "d17", "title": "VulcanGraph", "text": "It supports ACID transactions with snapshot isolation. Indexes can be created per label and property."}
+{"id": "d18", "title": "VulcanGraph", "text": "VulcanGraph is a property graph database with Gremlin-like traversal. Bulk loads stream via CSV with a `vgraph load` command. It exposes a REST API on port 7787 by default."}
+{"id": "d19", "title": "VulcanGraph", "text": "VulcanGraph release notes mention minor UI tweaks and logging improvements."}
+{"id": "d20", "title": "VulcanGraph", "text": "VulcanGraph release notes mention minor UI tweaks and logging improvements."}
+{"id": "d21", "title": "VulcanGraph", "text": "VulcanGraph release notes mention minor UI tweaks and logging improvements."}
+{"id": "d22", "title": "VulcanGraph", "text": "VulcanGraph community survey results will be published next quarter."}
